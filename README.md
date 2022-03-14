@@ -22,7 +22,7 @@
 
 Flutter(Dart),
 
-google firabase,
+google firebase,
 
 
 ----------Katkı Sağlayanlar----------
