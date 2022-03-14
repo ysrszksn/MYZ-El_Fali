@@ -4,12 +4,12 @@
 
 
 
-----------Amacı----------
+----------Projenin Amacı----------
 
 İnsanlara eğlence amaçlı telefon üzerinden el falı baktırmak. İnsanlar bu sıkıntılı günlerde oyalancak yeni şeyler aramaktadır, bunun için el falı uygulamamız ile üstünden gelmeyi hedefliyoruz. El fotoğraflarını çekip başka kullanıcılara paylaşırlar, başka kullanıclar ise bu fotoğrafa bakarak yorum yaparlar ve eğer doğru olursa paylaşan kişi o yorumu işaretler. Burada falcı yorumcu yok, sıradan kullanıcılar paylaşan kişi hakkında tahmin etme oyunu oynayacaklar aslında.
 
 
-----------Akış Diagramı----------
+----------Use Case Diagramı----------
 
 
 
