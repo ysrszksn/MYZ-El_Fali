@@ -16,6 +16,8 @@
 
 
 ----------Akış Diagramı----------
+
+
 ![El falı diagram](https://user-images.githubusercontent.com/63651151/158247338-cfe14c08-93db-41d6-b2de-4141b9025995.png)
 
 
