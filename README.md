@@ -12,9 +12,11 @@
 ----------Use Case Diagramı----------
 
 
+![use case](https://user-images.githubusercontent.com/63651151/160461792-0cbb38a4-a2d0-4ead-b62a-fa58e74cf6dd.png)
 
+
+----------Akış Diagramı----------
 ![El falı diagram](https://user-images.githubusercontent.com/63651151/158247338-cfe14c08-93db-41d6-b2de-4141b9025995.png)
-
 
 
 ----------Kullanılacak Diller----------
