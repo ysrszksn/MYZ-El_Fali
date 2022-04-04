@@ -32,13 +32,13 @@ Flutter(Dart),
 google firebase,
 
 
-            GÖREV LİSTESİ
+                                 GÖREV LİSTESİ
 Veritabanı tasarımı Zeynep saydam
 Arayüz tasarımı yaşar sözkesen
 Frontend tasarımı Zeynep saydam- yaşar sözkesen-Muhammed Meriç türkyılmaz
 Backend kodlanması Muhammed Meriç türkyılmaz
 
-                             veri tabanı tasarımı Zeynep SAYDAM                             
+                                 veri tabanı tasarımı Zeynep SAYDAM                             
 - [ ] 1. firebase projesi oluşturma                      15-04-2022
 - [ ] 2. nosql veritabanı tasarımı                       17-04-2022
 
