@@ -35,8 +35,40 @@ google firebase,
 ----------görev listesi----------
 
                                  veri tabanı tasarımı Zeynep SAYDAM                             
-- [ ] 1. firebase projesi oluşturma  15-04-2022
-- [ ] 1. nosql veritabanı tasarımı   17-04-2022
+- [ ] 1. firebase projesi oluşturma                      15-04-2022
+- [ ] 2. nosql veritabanı tasarımı                       17-04-2022
+
+                                 Arayüz tasarımı Yaşar SÖZKESEN                          
+- [ ] 1.Logo tasarımı                                    18-04-2022
+- [ ] 2.Login ekran tasarımı 	                           20-04-2022
+- [ ] 3.Kayıt ekranı tasarımı 	                         23-04-2022
+- [ ] 4.Yorum yapma ekranı tasarımı	                     25-04-2022	
+- [ ] 5.Fotoğraf yükleme ekranı tasarımı	               29-04-2022
+- [ ] 6.Değerlendirme ekranı tasarımı                    01-05-2022
+
+
+                                 Frontend tasarımı Zeynep saydam- yaşar sözkesen-Muhammed Meriç türkyılmaz
+- [ ] Login ekran mobil tasarımı 2-05-2022
+- [ ] Kayıt ekranı mobil tasarımı 4-05-2022
+- [ ] Yorum yapma ekranı mobil tasarımı 8-05-22
+- [ ] Fotoğraf yükleme mobil ekranı tasarımı 12-05-2022
+- [ ] Değerlendirme mobil ekranı tasarımı	14-05-2022
+
+
+
+                                 Backend kodlanması Muhammed Meriç türkyılmaz
+- [ ] Kullanıcı girişi firebase bağlantısı 20-05-2022
+- [ ] Kullanıcı firebase kayıt işlemi 21-05-2022
+- [ ] Resimlerin firebase gönderilmesi 22-05-2022
+- [ ] Resimlerin ana menüde yayınlanması 26-05-2022 
+- [ ] Resimlerin kullanıcı tarafından yorumlandırlıması 28-05-2022
+- [ ] Yorumun doğruluğunun seçilmesi 30-05-2022
+
+
+
+
+
+
 
 ----------Katkı Sağlayanlar----------
 
