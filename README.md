@@ -36,8 +36,8 @@ google firebase,
 
                                  veri tabanı tasarımı Zeynep SAYDAM
                                  
-- [ ]firebase projesi oluşturma  15-04-2022
-- [ ]nosql veritabanı tasarımı     17-04-2022	
+- []firebase projesi oluşturma  15-04-2022
+- []nosql veritabanı tasarımı     17-04-2022	
 
 
 
