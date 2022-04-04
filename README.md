@@ -34,12 +34,9 @@ google firebase,
 
 ----------görev listesi----------
 
-                                 veri tabanı tasarımı Zeynep SAYDAM
-                                 
-- []firebase projesi oluşturma  15-04-2022
-- []nosql veritabanı tasarımı     17-04-2022	
-
-
+                                 veri tabanı tasarımı Zeynep SAYDAM                             
+- [ ] 1. firebase projesi oluşturma  15-04-2022
+- [ ] 1. nosql veritabanı tasarımı   17-04-2022
 
 ----------Katkı Sağlayanlar----------
 
