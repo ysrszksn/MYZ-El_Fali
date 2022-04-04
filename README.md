@@ -51,8 +51,8 @@ google firebase,
 - [ ] 6.Değerlendirme ekranı tasarımı                    01-05-2022
 
 
-                                 Frontend tasarımı Zeynep saydam- yaşar sözkesen-Muhammed Meriç türkyılmaz
-- [ ] 1.Login ekran mobil tasarımı                       2-05-2022
+                        Frontend tasarımı Zeynep saydam- yaşar sözkesen-Muhammed Meriç türkyılmaz
+- [ ] 1.Login ekran mobil tasarımı 2-05-2022
 - [ ] 2.Kayıt ekranı mobil tasarımı 4-05-2022
 - [ ] 3.Yorum yapma ekranı mobil tasarımı 8-05-22
 - [ ] 4.Fotoğraf yükleme mobil ekranı tasarımı 12-05-2022
@@ -60,7 +60,7 @@ google firebase,
 
 
 
-Backend kodlanması Muhammed Meriç türkyılmaz
+                                 Backend kodlanması Muhammed Meriç türkyılmaz
 - [ ] 1.Kullanıcı girişi firebase bağlantısı 20-05-2022
 - [ ] 2.Kullanıcı firebase kayıt işlemi 21-05-2022
 - [ ] 3.Resimlerin firebase gönderilmesi 22-05-2022
