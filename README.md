@@ -38,11 +38,11 @@ google firebase,
 - [ ]Frontend tasarımı Zeynep saydam- yaşar sözkesen-Muhammed Meriç türkyılmaz
 - [ ]Backend kodlanması Muhammed Meriç türkyılmaz
 
-                                 veri tabanı tasarımı Zeynep SAYDAM                             
+                                              veri tabanı tasarımı Zeynep SAYDAM                             
 - [ ] 1. firebase projesi oluşturma                      15-04-2022
 - [ ] 2. nosql veritabanı tasarımı                       17-04-2022
 
-                                 Arayüz tasarımı Yaşar SÖZKESEN                          
+                                              Arayüz tasarımı Yaşar SÖZKESEN                          
 - [ ] 1.Logo tasarımı                                    18-04-2022
 - [ ] 2.Login ekran tasarımı 	                           20-04-2022
 - [ ] 3.Kayıt ekranı tasarımı 	                         23-04-2022
