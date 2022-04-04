@@ -1,21 +1,21 @@
-----------El Falı Mobil Application----------
+                                                  El Falı Mobil Application
 
 ![el-fal](https://user-images.githubusercontent.com/63651151/158247276-2e9ec9bf-3e63-43fa-8922-f30bd7a0c754.jpg)
 
 
 
-----------Projenin Amacı----------
+                                                   Projenin Amacı
 
 İnsanlara eğlence amaçlı telefon üzerinden el falı baktırmak. İnsanlar bu sıkıntılı günlerde oyalancak yeni şeyler aramaktadır, bunun için el falı uygulamamız ile üstünden gelmeyi hedefliyoruz. El fotoğraflarını çekip başka kullanıcılara paylaşırlar, başka kullanıclar ise bu fotoğrafa bakarak yorum yaparlar ve eğer doğru olursa paylaşan kişi o yorumu işaretler. Burada falcı yorumcu yok, sıradan kullanıcılar paylaşan kişi hakkında tahmin etme oyunu oynayacaklar aslında.
 
 
-----------Use Case Diagramı----------
+                                                    Use Case Diagramı
 
 
 ![use case](https://user-images.githubusercontent.com/63651151/160461792-0cbb38a4-a2d0-4ead-b62a-fa58e74cf6dd.png)
 
 
-----------Akış Diagramı----------
+                                                    Akış Diagramı
 
 
 ![El falı diagram](https://user-images.githubusercontent.com/63651151/158247338-cfe14c08-93db-41d6-b2de-4141b9025995.png)
@@ -24,7 +24,7 @@
 
 
 
-----------Kullanılacak Diller----------
+                                                     Kullanılacak Diller
 
 
 Flutter(Dart),
@@ -60,7 +60,7 @@ google firebase,
 
 
 
-                                 Backend kodlanması Muhammed Meriç türkyılmaz
+Backend kodlanması Muhammed Meriç türkyılmaz
 - [ ] 1.Kullanıcı girişi firebase bağlantısı 20-05-2022
 - [ ] 2.Kullanıcı firebase kayıt işlemi 21-05-2022
 - [ ] 3.Resimlerin firebase gönderilmesi 22-05-2022
@@ -73,8 +73,7 @@ google firebase,
 
 
 
-
-----------Katkı Sağlayanlar----------
+                                 Katkı Sağlayanlar
 
 
 Muhammed Meriç Türkyılmaz 202503303
