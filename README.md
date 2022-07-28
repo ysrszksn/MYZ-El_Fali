@@ -1,4 +1,5 @@
-                                                  El Falı Mobil Application
+1
+El Falı Mobil Application
 
 ![el-fal](https://user-images.githubusercontent.com/63651151/158247276-2e9ec9bf-3e63-43fa-8922-f30bd7a0c754.jpg)
 
